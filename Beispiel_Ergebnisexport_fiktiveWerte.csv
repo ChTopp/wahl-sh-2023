@@ -1,7 +1,7 @@
 Gemeinde;Wahlkreisnummer;Erfassungsgebietsnummer;Erfassungsgebietsart;Ausgezaehlt abweichend Gebiet;Ausgezaehlt abweichend AGS;Ausbleibend;Wahlberechtigte gesamt (A);Wahlberechtigte ohne Wahlschein (A1);Wahlberechtigte mit Wahlschein (A2);Wahlberechtigte nicht im WVZ (A3);Waehler gesamt (B);Waehler ohne Wahlschein;Waehler mit Wahlschein;Urnenwaehler mit Wahlschein in Urnenwahllokal;Briefwaehler mit Wahlschein in Urnenwahllokal;Stimmen ungueltige (C);Stimmen gueltige (D);D1;D2;D3;D4;D5;D6;D7;D8;D9;D10;D11;D12;D13;D14;D15;D16;D17;D18;D19;D20;D21;D22;D23;D24
 12345;01;1;STIMMBEZIRK;;;N;558;558;0;0;380;380;0;0;0;0;380;198;1;119;62;;;;;;;;;;;;;;;;;;;;
-12345;02;2;STIMMBEZIRK;;;N;558;558;0;0;473;473;0;0;0;0;473;294;0;116;63;;;;;;;;;;;;;;;;;;;;
-12345;03;3;STIMMBEZIRK;;;N;558;558;0;0;473;473;0;0;0;0;473;294;0;116;63;;;;;;;;;;;;;;;;;;;;
+12346;02;2;STIMMBEZIRK;;;N;558;558;0;0;473;473;0;0;0;0;473;294;0;116;63;;;;;;;;;;;;;;;;;;;;
+12347;03;3;STIMMBEZIRK;;;N;558;558;0;0;473;473;0;0;0;0;473;294;0;116;63;;;;;;;;;;;;;;;;;;;;
 12345;04;4;STIMMBEZIRK;;;N;558;558;0;0;473;473;0;0;0;0;473;294;0;116;63;;;;;;;;;;;;;;;;;;;;
 12345;05;5;STIMMBEZIRK;;;N;558;558;0;0;473;473;0;0;0;0;473;294;0;116;63;;;;;;;;;;;;;;;;;;;;
 12345;06;6;STIMMBEZIRK;;;N;558;558;0;0;473;473;0;0;0;0;473;294;0;116;63;;;;;;;;;;;;;;;;;;;;
